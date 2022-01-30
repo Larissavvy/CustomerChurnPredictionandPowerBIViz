@@ -7,8 +7,11 @@ Used SMOTE as there is Imbalance in dataset and deployed the output on Power BI.
 
 Repo Includes:
 1.Jupyter Notebook of Code
+
 2.Power Bi File
+
 3. DataSet
+
 4. Output of dataset in Excel.
 
 
