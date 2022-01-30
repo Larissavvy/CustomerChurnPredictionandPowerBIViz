@@ -1,7 +1,6 @@
 # CustomerChurnPredictionandPowerBIViz
-Prediction of Customer Churn using Machine Learning Alogrithm and Visualization of final output on Power BI
+Description: Prediction of Customer Churn using Machine Learning Alogrithm and Visualization of final output on Power BI
 
-The data is uploaded in Repo
 
 Utlized Machine Learning Alogrithm- Random Forest and Predicted if the Customer will leave the company or not, 
 Used SMOTE as there is Imbalance in dataset and deployed the output on Power BI.
